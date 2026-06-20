@@ -5,10 +5,10 @@
 //  Copy the values into the object below. These are safe to be public.
 // =====================================================================
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyAbkeccz5SvWHTRTNYhWmwXxisriL9glJI",
+  authDomain: "oc-wc26.firebaseapp.com",
+  projectId: "oc-wc26",
+  storageBucket: "oc-wc26.firebasestorage.app",
+  messagingSenderId: "753023803070",
+  appId: "1:753023803070:web:6a744d97a120e9129048ef"
 };
